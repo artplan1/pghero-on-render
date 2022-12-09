@@ -1,4 +1,4 @@
-# PGhero on Render
+# PGhero on Render.com
 
 Pghero performance dashboard for Postgres on Render
 
@@ -9,7 +9,7 @@ You can use it to easily check performance of your PostgreSQL instances running 
 
 ## Deployment
 
-1. Create a new Web Service on Render, and enter [link to this repo](https://github.com/artplan1/pghero-on-render) in Public Git repository field.
+1. Create a [new Web Service on Render](https://dashboard.render.com/web/new), and enter [link to this repo](https://github.com/artplan1/pghero-on-render) in Public Git repository field.
 1. Make sure the Environment is set to Docker, and enter a name for the service.
 1. Open advanced settings and set following environment variables:
   
