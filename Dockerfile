@@ -1,1 +1,1 @@
-FROM ankane/pghero:3.0.1
+FROM ankane/pghero:v3.0.1
